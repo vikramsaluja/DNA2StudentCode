@@ -6,7 +6,7 @@
  * at Menlo School in Atherton, CA
  *</p>
  * <p>
- * Completed by: [YOUR NAME HERE]
+ * Completed by: Vikram Saluja
  *</p>
  */
 

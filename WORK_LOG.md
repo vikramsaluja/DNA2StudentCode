@@ -1,9 +1,9 @@
-Name: YOUR NAME HERE
+Name: Vikram Saluja
 
-| Date    |  Time  |                                     Update |
-|:--------|:------:|-------------------------------------------:|
-| April 5 | 9-10pm | I tried to write abstract, efficient code. |
-|         |        |                                            |
+| Date    |    Time     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Update |
+|:--------|:-----------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| April 5 |   9-10pm    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   I tried to write abstract, efficient code. |
+| Oct 16  | 1:00-1:45pm | Orginally, I know that I can solve this probem a similar way to solving it how we did in cs1. This would mean comparing a set of letters to the next set and see if it reoccuring. Then by end your could return the number the number with the most comparisons. One way that I am starting to think about approaching this would be if I could implement a trie or TST in someway to have a constant look up with each of the reoccuring sequences. I'm not too sure how this would work though but I am just trying to think of ways that I could cut down the run time.  |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
